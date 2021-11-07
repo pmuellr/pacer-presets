@@ -1,7 +1,7 @@
 The MIT License (MIT)
 ================================================================================
 
-Copyright 2019 (c) Patrick Mueller
+Copyright 2021 (c) Patrick Mueller
 --------------------------------------------------------------------------------
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

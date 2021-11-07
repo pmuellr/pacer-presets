@@ -21,4 +21,4 @@ export interface CreateMidiPortsParams {
   onMessage: OnMessage
 }
 
-export type CommandHandler = (opts: CliOptions, args: string[]) => void
+export type CommandHandler = (opts: CliOptions, args: string[]) => Promise<void>
